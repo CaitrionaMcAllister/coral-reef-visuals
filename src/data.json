@@ -1,0 +1,125 @@
+{
+    "description": "Coral Reef Health Data",
+    "reefData": [
+    {
+        "site": [
+
+            {
+                "ID":"4608",
+                "sampleID":"9625",
+                "siteName":"//",
+                "percentage":"0.1",
+                "location":[
+                    {
+                        "latitude":"24.4571",
+                        "longitude":"124.0986",
+                        "oceanName":"Pacific",
+                        "realmName":"Central Indo-Pacific",
+                        "ecoregionName":"South Ryukyu Islands Japan",
+                        "countryName":"Japan",
+                        "stateIslandProvinceNAme":"Yaeyama Islands",
+                        "cityTownName":"Okinawa"
+                        }
+                ],
+                "health":[
+                    {
+                        "exposure":"exposed",
+                        "cycloneFrequency":"50.23",
+                        "depthM":"5",
+                        "bleachingPercentage":"0.1",
+                        "windSpeed":"6"
+                        }
+                ]
+            },
+
+            {
+                "ID":"2501",
+                "sampleID":"10324336",
+                "siteName":"Puntilla",
+                "percentage":"50.2",
+                "location":[
+                    {
+                        "latitude":"23.163",
+                        "longitude":"-82.526",
+                        "oceanName":"Atlantic",
+                        "realmName":"Tropical Atlantic",
+                        "ecoregionName":"Cuba and Cayman Islands",
+                        "countryName":"Cuba",
+                        "stateIslandProvinceNAme":"Havana",
+                        "cityTownName":"Havana"
+                        }
+                ],
+                "health":[
+                    {
+                        "exposure":"exposed",
+                        "cycloneFrequency":"49.90",
+                        "depthM":"10",
+                        "bleachingPercentage":"50.2",
+                        "windSpeed":"8"
+                        }
+                ]
+            },
+
+            {
+                "ID":"1282",
+                "sampleID":"10323379",
+                "siteName":"//",
+                "percentage":"75.4",
+                "location":[
+                    {
+                        "latitude":"23.6726",
+                        "longitude":"-76.2022",
+                        "oceanName":"Atlantic",
+                        "realmName":"//",
+                        "ecoregionName":"//",
+                        "countryName":"//",
+                        "stateIslandProvinceNAme":"//",
+                        "cityTownName":"//"
+                        }
+                ],
+                "health":[
+                    {
+                        "exposure":"sheltered",
+                        "cycloneFrequency":"//",
+                        "depthM":"//",
+                        "bleachingPercentage":"75.4",
+                        "windSpeed":"//"
+                        }
+                ]
+            },
+
+            {
+                "ID":"30",
+                "sampleID":"10322097",
+                "siteName":"//",
+                "percentage":"99.89",
+                "location":[
+                    {
+                        "latitude":"-11.22",
+                        "longitude":"132.23",
+                        "oceanName":"Pacific",
+                        "realmName":"Central Indo-Pacific",
+                        "ecoregionName":"//",
+                        "countryName":"//",
+                        "stateIslandProvinceNAme":"//",
+                        "cityTownName":"//"
+                        }
+                ],
+                "health":[
+                    {
+                        "exposure":"sheltered",
+                        "cycloneFrequency":"50.23",
+                        "depthM":"//",
+                        "bleachingPercentage":"99.89",
+                        "windSpeed":"//"
+                        }
+                ]
+            }
+
+        ]
+        
+    }
+]
+}
+
+
